@@ -1,0 +1,28 @@
+.Lost {
+  color: #e31a1a;
+  font-weight: bold;
+}
+
+.Won {
+  color: #18ed66;
+  font-weight: bold;
+}
+
+.matchCardContainer {
+  background-color: #0f172a;
+  text-align: center;
+  color: #ffffff;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 300px;
+  height: 450px;
+  margin: 12px;
+  border-radius: 25px;
+}
+
+.matchCardImg {
+  height: 100px;
+}

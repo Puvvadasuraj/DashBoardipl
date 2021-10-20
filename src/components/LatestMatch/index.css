@@ -1,0 +1,25 @@
+.latestMatchContainer {
+  background-color: #0f172a;
+  width: fit-content;
+  padding: 25px;
+  background-size: cover;
+  border-radius: 12px;
+  color: #ffffff;
+  margin: 12px;
+  font-family: 'Bree Serif';
+}
+
+.partContainer1 {
+  max-width: 30vw;
+  margin-right: 18px;
+}
+
+.teamLogo {
+  height: 150px;
+}
+
+.containerHead {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

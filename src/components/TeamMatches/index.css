@@ -1,0 +1,109 @@
+.RCB {
+  background-image: linear-gradient(to bottom, #d91c1f, #0f172a);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.CSK {
+  background-color: #f7db00;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.KKR {
+  background-image: linear-gradient(to bottom, #4f5db0, #5755a7);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.KXP {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.RR {
+  background-image: linear-gradient(to bottom, #13418b, #1e293b);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.MI {
+  background-image: linear-gradient(to bottom, #4f5db0, #1e293b);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.SH {
+  background-image: linear-gradient(to bottom, #f26d22, #d91c1f);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.DC {
+  background-image: linear-gradient(to bottom, #5755a7, #4f5db0);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.teamImg {
+  align-self: center;
+  height: 250px;
+  width: 60%;
+}
+
+.latestName {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
+
+.ulContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 75vw;
+}

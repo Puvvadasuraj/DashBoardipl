@@ -1,0 +1,26 @@
+.teamContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #ffffff33;
+  border: 2px solid #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 25px;
+  max-width: 500px;
+}
+
+.img {
+  height: 100px;
+}
+
+.teamName {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.linkClass {
+  text-decoration: none;
+}
